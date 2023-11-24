@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\Camilo\LinkedList\LL\LL\bin\Debug\net6.0\LL.exe
+C:\Users\Usuario\Documents\Camilo\LinkedList\LL\LL\bin\Debug\net6.0\LL.deps.json
+C:\Users\Usuario\Documents\Camilo\LinkedList\LL\LL\bin\Debug\net6.0\LL.runtimeconfig.json
+C:\Users\Usuario\Documents\Camilo\LinkedList\LL\LL\bin\Debug\net6.0\LL.dll
+C:\Users\Usuario\Documents\Camilo\LinkedList\LL\LL\bin\Debug\net6.0\ref\LL.dll
+C:\Users\Usuario\Documents\Camilo\LinkedList\LL\LL\bin\Debug\net6.0\LL.pdb
+C:\Users\Usuario\Documents\Camilo\LinkedList\LL\LL\obj\Debug\net6.0\LL.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Camilo\LinkedList\LL\LL\obj\Debug\net6.0\LL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Camilo\LinkedList\LL\LL\obj\Debug\net6.0\LL.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Camilo\LinkedList\LL\LL\obj\Debug\net6.0\LL.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Camilo\LinkedList\LL\LL\obj\Debug\net6.0\LL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Camilo\LinkedList\LL\LL\obj\Debug\net6.0\LL.dll
+C:\Users\Usuario\Documents\Camilo\LinkedList\LL\LL\obj\Debug\net6.0\ref\LL.dll
+C:\Users\Usuario\Documents\Camilo\LinkedList\LL\LL\obj\Debug\net6.0\LL.pdb
+C:\Users\Usuario\Documents\Camilo\LinkedList\LL\LL\obj\Debug\net6.0\LL.genruntimeconfig.cache
